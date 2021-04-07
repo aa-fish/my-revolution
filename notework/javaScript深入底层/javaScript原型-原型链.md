@@ -19,7 +19,7 @@ cosole.log(person.name) // Bibo
 
 ------
 
-**每一个函数都有prototype属性，只有函数有**
+**每一个函数都有prototype属性
 
 ```js
 function Person(){}
